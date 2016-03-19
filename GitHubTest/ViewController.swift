@@ -24,7 +24,7 @@ class ViewController: UIViewController {
     }
 
     @IBAction func buttonTap(sender: UIButton) {
-        label.text = "Hello"
+        label.text = "Hello!"
     }
 
 }
